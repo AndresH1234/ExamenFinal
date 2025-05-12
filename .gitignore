@@ -1,0 +1,4 @@
+# Ignora archivos macos
+.DS_Store
+# Ignora el archivo pdf
+*.pdf
